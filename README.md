@@ -6,10 +6,10 @@
 感谢！
 
 ps：为了更好的食用，请务必搭配以下-推荐插件：
-#### https://github.com/AlanDecode/Typecho-Plugin-DoubanBoard（豆瓣插件，用于展示影单）
-#### https://github.com/MoePlayer/APlayer-Typecho（用于展示歌单）
-#### https://github.com/moeshin/QPlayer2-Typecho（悬浮歌单）--为了能跟本主题更好的适配，已跟主题一起打包
-#### https://github.com/typecho-fans/plugins/tree/master/Links（友情链接）--为了能跟本主题更好的适配，已跟主题一起打包
+#### https://github.com/AlanDecode/Typecho-Plugin-DoubanBoard （豆瓣插件，用于展示影单）
+#### https://github.com/MoePlayer/APlayer-Typecho 用于展示歌单）
+#### https://github.com/moeshin/QPlayer2-Typecho （悬浮歌单）--为了能跟本主题更好的适配，已跟主题一起打包
+#### https://github.com/typecho-fans/plugins/tree/master/Links （友情链接）--为了能跟本主题更好的适配，已跟主题一起打包
         
 欢迎加入博友群：<a href="https://jq.qq.com/?_wv=1027&k=xK9A9ZGL">345494089</a>
 ## 介绍：
