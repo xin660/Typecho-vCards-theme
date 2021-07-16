@@ -10,7 +10,8 @@ ps：为了更好的食用，请务必搭配以下-推荐插件：
 #### https://github.com/MoePlayer/APlayer-Typecho 用于展示歌单）
 #### https://github.com/moeshin/QPlayer2-Typecho （悬浮歌单）--为了能跟本主题更好的适配，已跟主题一起打包
 #### https://github.com/typecho-fans/plugins/tree/master/Links （友情链接）--为了能跟本主题更好的适配，已跟主题一起打包
-        
+特别感谢以上优秀开源者~
+
 欢迎加入博友群：<a href="https://jq.qq.com/?_wv=1027&k=xK9A9ZGL">345494089</a>
 ## 介绍：
 vCards一名取自网上开源的html模板的名字，当时看到这个模板的时候，它本身具有的简约个性便燃起了我开发模板的心，所以就选这套模板进行嵌套typecho模板，这也是我第一次开发模板，还有很多不足。
@@ -27,16 +28,6 @@ vCards一名取自网上开源的html模板的名字，当时看到这个模板�
 隐私回复
 私密文章等等
 
-## 鸣谢：
-<ul>
-    <li><a href="https://github.com/defunkt/jquery-pjax">jquery-pjax</a></li>   
-    <li><a href="https://www.mdui.org/">mdui</a></li>   
-    <li><a href="https://github.com/typecho-fans/plugins/tree/master/Links">Links</a></li>
-    <li><a href="https://github.com/Jrohy/QPlayer">QPlayer</a></li>
-    <li><a href="https://github.com/AlanDecode/Typecho-Plugin-DoubanBoard">Typecho-Plugin-DoubanBoard</a></li>
-    <li><a href="https://github.com/MoePlayer/APlayer-Typecho">APlayer-Typecho</a></li>
-    <li>@百度上所以贡献过tp模板开发的作者</li>
-</ul>
 
 
 ## 页面演示：
