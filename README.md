@@ -5,6 +5,7 @@
 另外，如有任何建议和问题，请在issues留言～
 感谢！
 
+注意：书单页并未完善，如需更改书本信息，请到源码文件修改
 ps：为了更好的食用，请务必搭配以下-推荐插件：
 #### https://github.com/AlanDecode/Typecho-Plugin-DoubanBoard （豆瓣插件，用于展示影单）
 #### https://github.com/MoePlayer/APlayer-Typecho 用于展示歌单）
