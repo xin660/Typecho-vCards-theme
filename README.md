@@ -6,7 +6,7 @@
 感谢！
 
 注意：书单页并未完善，如需更改书本信息，请到源码文件修改
-# 请在基本设置-评论设置-关闭反垃圾
+<font color=#f44336 size=12>请在基本设置-评论设置-关闭反垃圾</font>
 ps：为了更好的食用，请务必搭配以下-推荐插件：
 #### https://github.com/AlanDecode/Typecho-Plugin-DoubanBoard （豆瓣插件，用于展示影单）
 #### https://github.com/MoePlayer/APlayer-Typecho 用于展示歌单）
