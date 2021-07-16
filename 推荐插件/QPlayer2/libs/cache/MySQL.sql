@@ -1,0 +1,6 @@
+CREATE TABLE `%table%` (
+    `key` CHAR(32) NOT NULL,
+    `data` MEDIUMTEXT NOT NULL,
+    `time` INT(10) NOT NULL,
+    PRIMARY KEY (`key`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8;
