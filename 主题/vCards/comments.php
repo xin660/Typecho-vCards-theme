@@ -161,8 +161,6 @@ echo $commentClass;
                 <h3><?php _e('评论已关闭'); ?></h3>
             <?php endif; ?>
 </div>
-<?php //兼容 typecho 反垃圾
-  if ($this->options->commentsAntiSpam) { Comments::AntiSpam($this->respondId, Typecho_Common::shuffleScriptVar($this->security->getToken(preg_replace('/\??&?_pjax=[^&]+/i','',$this->request->getRequestUrl())))); } ?>
 
 
 
