@@ -71,7 +71,7 @@ class DoubanBoard_Plugin implements Typecho_Plugin_Interface
         $form->addInput($PageSize);
         $ValidTimeSpan = new Typecho_Widget_Helper_Form_Element_Text('ValidTimeSpan', NULL, '86400', _t('缓存过期时间'), _t('填写缓存过期时间，单位秒。默认 24 小时。'));
         $form->addInput($ValidTimeSpan);
-        $loadJQ= new Typecho_Widget_Helper_Form_Element_Checkbox('loadJQ',  array('jq'=>_t('配置是否引入 JQuery：勾选则引入不勾选则不引入<br>')),array('jq'), _t('基本设置'));
+        $loadJQ= new Typecho_Widget_Helper_Form_Element_Checkbox('loadJQ',  array(''=>_t('配置是否引入 JQuery：勾选则引入不勾选则不引入<br>')),array('jq'), _t('基本设置'));
         $form->addInput($loadJQ);
     }
     /**
