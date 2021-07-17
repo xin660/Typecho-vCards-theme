@@ -54,7 +54,7 @@
 	<![endif]-->
 	<div class="scroll-line" style="width: 0%;"></div>
 
-	<?php if ($this->options->headTitle && $this->options->headStatus && $this->options->logoUrl && $this->options->headbgImgUrl): ?>
+	<?php if ($this->options->headTitle && $this->options->headStatus && $this->options->logoUrl && $this->options->headbgImgUrl && $this->options->hdAboutUrl): ?>
 	<div class="preloader" style="/* visibility: hidden; */">
 	<div class="preloader-content">	
 		<div class="pre-c" style="position: fixed;bottom: 5rem;padding: 2rem;width:100%">
@@ -86,7 +86,7 @@
 			<!-- Header -->
 			<header class="header box" style=" box-shadow: 0px 0px 40px rgb(255 255 255 / 50%);">
 				<div class="header__left">
-					<a href="<?php $this->options->siteUrl(); ?>About.html">
+					<a href="<?php $this->options->siteUrl(); ?><?php $this->options->hdAboutUrl() ?>">
 						<div class="header__photo">
 							<img class="header__photo-img" src="<?php $this->options->logoUrl() ?>"
 								alt="<?php $this->options->headTitle() ?>">
