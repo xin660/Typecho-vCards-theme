@@ -107,6 +107,9 @@ echo '<script src="' . Helper::options()->themeUrl . '/assets/styles/options.js"
     $headStatus = new Typecho_Widget_Helper_Form_Element_Text('headStatus', NULL, "愿世界安康，愿你我皆好！", _t('首页头部一句话介绍'), _t('请输入你的介绍，用于展示在首页昵称下面'));
     $headStatus->setAttribute('class', 'options-content options-home');
     $form->addInput($headStatus);
+    $hdAboutUrl = new Typecho_Widget_Helper_Form_Element_Text('hdAboutUrl', NULL, "About.html", _t('头像跳转地址'), _t('请输入需要跳转页面的缩略名'));
+    $hdAboutUrl->setAttribute('class', 'options-content options-home');
+    $form->addInput($hdAboutUrl);
     $logoUrl = new Typecho_Widget_Helper_Form_Element_Text('logoUrl', NULL, "https://q1.qlogo.cn/g?b=qq&nk=80360650&s=640", _t('首页头部头像地址'), _t('在这里填入一个图片 URL 地址, 以在头部设置你的头像'));
     $logoUrl->setAttribute('class', 'options-content options-home');
     $form->addInput($logoUrl);
