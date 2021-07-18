@@ -26,7 +26,7 @@
         ), '', ' - '); ?>
 		<?php $this->options->title(); ?>
 	</title>
-	<link rel="shortcut icon" href="<?php $this->options->themeUrl('assets/img//favicon.svg'); ?>" type="image/png">
+	<link rel="shortcut icon" href="<?php $this->options->themeUrl('assets/img/favicon.svg'); ?>" type="image/png">
 
 	<!-- Styles -->
 	<link rel="stylesheet" type="text/css" href="<?php $this->options->themeUrl('assets/styles/style.css'); ?>" />
